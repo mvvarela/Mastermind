@@ -1,6 +1,3 @@
-//Team Members: Rumi Mitra and Marco Varela
-//[GUI portion of Marco Varela]
-
 package mastermind
 
 import scala.swing.Panel
